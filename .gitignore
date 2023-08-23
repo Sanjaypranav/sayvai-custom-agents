@@ -1,0 +1,16 @@
+build
+.venv
+dist
+*.egg-info
+```
+__pycache__
+```
+src/agents.egg-info
+```
+```
+agents/__pycache__
+```
+```
+test.py
+.pytest_cache
+tests/__pycache__
